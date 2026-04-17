@@ -174,6 +174,15 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_choice'
+                        id: '4d720f058b0943a2a9ec98d7d9b6f10e'
+                        key: {
+                            name: 'x_vendor_aiagent_ai_agent'
+                            element: 'x_vendor_aiagent_agent_type'
+                            value: 'orchestrator'
+                        }
+                    },
+                    {
                         table: 'sys_dictionary'
                         id: '538d1aaa2a2b45beb1112ce460dfc9f8'
                         key: {

@@ -35,6 +35,7 @@ export const x_vendor_aiagent_ai_agent = Table({
                 autonomous: { label: 'Autonomous' },
                 assisted: { label: 'Assisted' },
                 hybrid: { label: 'Hybrid' },
+                orchestrator: { label: 'Orchestrator' },
             },
         }),
         x_vendor_aiagent_owner: ReferenceColumn({
