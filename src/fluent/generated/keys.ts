@@ -29,6 +29,10 @@ declare global {
                         table: 'sys_security_acl'
                         id: '423f77873ae44e9d86b021eed60ea569'
                     }
+                    x_vendor_aiagent_ai_agent_activate_on_open_client_script: {
+                        table: 'sys_script_client'
+                        id: 'f0d9d3dcd25742aba1beb99dfbe7f260'
+                    }
                     x_vendor_aiagent_ai_agent_create_acl: {
                         table: 'sys_security_acl'
                         id: '34e43e76c5874e9393cd019a31d05c11'
@@ -44,6 +48,18 @@ declare global {
                     x_vendor_aiagent_ai_agent_write_acl: {
                         table: 'sys_security_acl'
                         id: '70fe45d7eea64661a5f526979fe8afe9'
+                    }
+                    x_vendor_aiagent_ai_agents_module: {
+                        table: 'sys_app_module'
+                        id: '8d0bd3c29b2b409296517e6c1bfedda0'
+                    }
+                    x_vendor_aiagent_application_menu: {
+                        table: 'sys_app_application'
+                        id: 'cf2c7961280c458b837b0076d9afe792'
+                    }
+                    x_vendor_aiagent_new_ai_agent_module: {
+                        table: 'sys_app_module'
+                        id: 'd10fae47c5fb4d7ba6c3aedcbe9fa112'
                     }
                 }
                 composite: [
